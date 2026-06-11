@@ -18,7 +18,7 @@ RULES_CHANNEL_ID = int(os.getenv("RULES_CHANNEL_ID"))
 # =========================================
 # GIF / IMAGE
 # =========================================
-WELCOME_GIF = "https://share.creavite.co/6a2a2680f98d8268e39d5ccd.gif"
+WELCOME_GIF = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhpeTF0bDk0NGFia3A1ZmU3NWppc3Y1dm5yamVzYXBpODB0ZXFsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBUM3gZzbn02TBFVsu/giphy.gif"
 
 # =========================================
 # BOT SETUP
